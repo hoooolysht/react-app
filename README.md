@@ -1,5 +1,6 @@
 # react-app
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=npm+create-react-app)](https://git.io/typing-svg)
 
 This repository was created to demonstrate the current skills of using the React framework.
 
